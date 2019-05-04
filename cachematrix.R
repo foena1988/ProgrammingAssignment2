@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Put comments here that give an overall description of what your functions do
 
 ## This function returns a list, containing functions to (1) set the matrix, (2) get the matrix, (3) set the inverse and (4) get the inverse.
 ## This list ist used as input for cacheSolve
